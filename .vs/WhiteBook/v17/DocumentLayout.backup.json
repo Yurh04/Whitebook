@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WPF\\WhiteBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|D:\\WPF\\WhiteBook\\whitebook\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|solutionrelative:whitebook\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|D:\\WPF\\WhiteBook\\whitebook\\database\\diaryget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|solutionrelative:whitebook\\database\\diaryget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|D:\\WPF\\WhiteBook\\whitebook\\window_1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|solutionrelative:whitebook\\window_1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|d:\\wpf\\whitebook\\whitebook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|solutionrelative:whitebook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|D:\\WPF\\WhiteBook\\whitebook\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BF051075-CD92-46C1-927B-052FA2F1BC23}|WhiteBook\\WhiteBook.csproj|solutionrelative:whitebook\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WPF\\WhiteBook\\WhiteBook\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WhiteBook\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WPF\\WhiteBook\\WhiteBook\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WhiteBook\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:12:55.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiaryGet.cs",
+              "DocumentMoniker": "D:\\WPF\\WhiteBook\\WhiteBook\\Database\\DiaryGet.cs",
+              "RelativeDocumentMoniker": "WhiteBook\\Database\\DiaryGet.cs",
+              "ToolTip": "D:\\WPF\\WhiteBook\\WhiteBook\\Database\\DiaryGet.cs",
+              "RelativeToolTip": "WhiteBook\\Database\\DiaryGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:47:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "D:\\WPF\\WhiteBook\\WhiteBook\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "WhiteBook\\Database\\DatabaseManager.cs",
+              "ToolTip": "D:\\WPF\\WhiteBook\\WhiteBook\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "WhiteBook\\Database\\DatabaseManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:30:48.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window_1.xaml.cs",
+              "DocumentMoniker": "D:\\WPF\\WhiteBook\\WhiteBook\\Window_1.xaml.cs",
+              "RelativeDocumentMoniker": "WhiteBook\\Window_1.xaml.cs",
+              "ToolTip": "D:\\WPF\\WhiteBook\\WhiteBook\\Window_1.xaml.cs",
+              "RelativeToolTip": "WhiteBook\\Window_1.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:40:28.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WPF\\WhiteBook\\WhiteBook\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WhiteBook\\MainWindow.xaml",
+              "ToolTip": "D:\\WPF\\WhiteBook\\WhiteBook\\MainWindow.xaml",
+              "RelativeToolTip": "WhiteBook\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T13:45:51.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
